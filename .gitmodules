@@ -1,14 +1,14 @@
  
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/ApoLaz/_gallery
+	url = https://github.com/ApoLaz/_gallery.git
 	branch = demo
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/Unixidized/_quotes
 [submodule "images"]
 	path = images
-	url = https://github.com/ApoLaz/images
+	url = https://github.com/ApoLaz/images.git
 	branch = demo
 [submodule "_includes/extras"]
 	path = _includes/extras
@@ -22,4 +22,3 @@
 [submodule "_notes"]
 	path = _notes
 	url = https://github.com/Unixidized/notes
-
