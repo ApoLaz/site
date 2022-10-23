@@ -20,3 +20,9 @@
 [submodule "_notes"]
 	path = _notes
 	url = https://github.com/Unixidized/notes
+[submodule "/home/apolaz/pibook/site/_gallery"]
+	url = https://github.com/ApoLaz/_gallery.git
+	branch = demo
+[submodule "/home/apolaz/pibook/site/images"]
+	url = https://github.com/ApoLaz/images.git
+	branch = demo
