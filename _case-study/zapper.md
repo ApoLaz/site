@@ -9,3 +9,5 @@ categories:
 tags:
  - Nitendo
 ---
+
+{% include cs-nes-zapper.md %}
